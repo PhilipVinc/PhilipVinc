@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a computational-quantum-physicist working at the Computational Quantum Sciences Laboratory in EPFL(ausanne). 
+I'm a computational-quantum-physicist, holding the chair of Artificial Intelligence and Quantum Physics at the Center for Theoretical Physics of Ecole Polytechnique, around Paris. 
 
 I study how to exploit Machine Learning techniques to address Quantum-physical problems, in particular with Neural Quantum States. 
 Given my PhD was in Quantum Optics, I am more interested in complex dissipative, non-equilibrium systems rather than (~boring~) equilibrium ones. This makes me keen on techniques for encoding symmetries and structure in a neural network, a tough task.
